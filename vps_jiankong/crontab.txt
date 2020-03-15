@@ -1,0 +1,4 @@
+*/10 * * * * python /root/vuf/start_bwh.py
+*/10 * * * * python /root/vuf/start_hostdare.py
+*/10 * * * * python /root/vuf/start_virmach.py
+*/10 * * * * python /root/vuf/start_vpsjxw.py
